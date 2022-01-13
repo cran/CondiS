@@ -1,0 +1,11 @@
+e8511946d70876014146aa66dc0347bb *DESCRIPTION
+d82c37f8522b11e273f2966829f5e52f *NAMESPACE
+8f56ea2951b06f080032251326c5d2d6 *R/CondiS-X.R
+09425df61442bf5c9304cef793ca9481 *R/CondiS.R
+0dacb54b96842a3f85c3644b13e1a4a0 *build/vignette.rds
+c54ae3846492ece0ab027673e08f51f3 *inst/doc/introduction.R
+1337307197fc9c93ab06ab5e86489250 *inst/doc/introduction.Rmd
+8e21005635ff28d30bdea97f27a4cc83 *inst/doc/introduction.html
+1953de477e2c108971c49c6ccc18d45b *man/CondiS.Rd
+e2b6479a26765b6ce32cdeef231aaf52 *man/CondiS_X.Rd
+1337307197fc9c93ab06ab5e86489250 *vignettes/introduction.Rmd
