@@ -1,7 +1,7 @@
 Package: CondiS
 Type: Package
 Title: Censored Data Imputation for Direct Modeling
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: c(
     person("Yizhuo", "Wang", role=c("aut", "cre"), email="ywang70@mdanderson.org", comment = c(ORCID = "0000-0002-1870-0019")),
     person("Ziyi", "Li", role=c("aut")),
@@ -17,11 +17,11 @@ NeedsCompilation: no
 Suggests: rmarkdown, knitr
 VignetteBuilder: knitr
 RoxygenNote: 7.1.2
-Packaged: 2022-01-13 07:32:40 UTC; YWang70
+Packaged: 2022-04-17 02:48:46 UTC; YWang70
 Author: Yizhuo Wang [aut, cre] (<https://orcid.org/0000-0002-1870-0019>),
   Ziyi Li [aut],
   Xuelin Huang [aut],
   Christopher Flowers [ctb]
 Maintainer: Yizhuo Wang <ywang70@mdanderson.org>
 Repository: CRAN
-Date/Publication: 2022-01-13 19:32:44 UTC
+Date/Publication: 2022-04-17 03:12:29 UTC

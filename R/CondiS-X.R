@@ -60,7 +60,7 @@ CondiS_X <- function(pred_time, status, covariates, method) {
       pred_time ~ .,
       data = sdata,
       method = "glmnet",
-      tuneGrid = expand.grid(alpha = 0),
+      tuneGrid = expand.grid(alpha = 0, lambda = seq(0.01, 10, length = 10)),
       trControl = train_control,
       na.action = na.omit
     )
@@ -78,7 +78,7 @@ CondiS_X <- function(pred_time, status, covariates, method) {
       pred_time ~ .,
       data = sdata,
       method = "glmnet",
-      tuneGrid = expand.grid(alpha = 1),
+      tuneGrid = expand.grid(alpha = 1, lambda = seq(0.01, 10, length = 10)),
       trControl = train_control,
       na.action = na.omit
     )
